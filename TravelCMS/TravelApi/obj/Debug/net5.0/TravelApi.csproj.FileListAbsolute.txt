@@ -1,0 +1,7 @@
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\TravelApi\obj\Debug\net5.0\TravelApi.csproj.AssemblyReference.cache
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\TravelApi\obj\Debug\net5.0\TravelApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\TravelApi\obj\Debug\net5.0\TravelApi.AssemblyInfoInputs.cache
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\TravelApi\obj\Debug\net5.0\TravelApi.AssemblyInfo.cs
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\TravelApi\obj\Debug\net5.0\TravelApi.csproj.CoreCompileInputs.cache
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\TravelApi\obj\Debug\net5.0\TravelApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\TravelApi\obj\Debug\net5.0\TravelApi.MvcApplicationPartsAssemblyInfo.cache

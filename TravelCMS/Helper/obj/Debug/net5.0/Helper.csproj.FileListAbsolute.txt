@@ -1,0 +1,12 @@
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\Helper\bin\Debug\net5.0\Helper.deps.json
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\Helper\bin\Debug\net5.0\Helper.dll
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\Helper\bin\Debug\net5.0\Helper.pdb
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\Helper\obj\Debug\net5.0\Helper.csproj.AssemblyReference.cache
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\Helper\obj\Debug\net5.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\Helper\obj\Debug\net5.0\Helper.AssemblyInfoInputs.cache
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\Helper\obj\Debug\net5.0\Helper.AssemblyInfo.cs
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\Helper\obj\Debug\net5.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\Helper\obj\Debug\net5.0\Helper.dll
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\Helper\obj\Debug\net5.0\refint\Helper.dll
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\Helper\obj\Debug\net5.0\Helper.pdb
+C:\Users\pudas\OneDrive\Desktop\TravelCMS\TravelCMS\Helper\obj\Debug\net5.0\ref\Helper.dll
